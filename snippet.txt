@@ -1,0 +1,1 @@
+metadata file should end with .secured.metadata
